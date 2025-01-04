@@ -1,4 +1,7 @@
-Proyecto de Inversión en Explotación Hortícola 🌱💰
+<div align="center">
+  <h1 style="font-size: 50px;"> Proyecto de Inversión en Explotación Hortícola 🌱💰</h1>
+  <img src="Portada.png" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
 
 El proyecto tiene como objetivo evaluar la viabilidad económica y financiera de un emprendimiento hortícola en Entre Ríos 🌱, centrado en la producción de hortalizas para satisfacer la demanda local. Se realizó un análisis exhaustivo que incluye estudios de mercado, técnicos y financieros, resultando en un Valor Actual Neto (VAN) de USD 262,785 💰, lo que indica una oportunidad de rentabilidad 📈.
 
